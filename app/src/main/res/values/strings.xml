@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+
+    <string-array name="sort">
+        <item>id</item>
+        <item>userId</item>
+    </string-array>
+
+    <string-array name="order">
+        <item>Asc</item>
+        <item>Desc</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dog">i am a dog</string>
+    <string name="cat">i am a cat</string>
+
+</resources>
